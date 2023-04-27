@@ -1,4 +1,4 @@
-# ExcelR_fraud_check
+# fraudd-check-data-excelr
 Assignment for Decision Trees and Random Forest
 
 Use decision trees/Random Forest to prepare a model on fraud data
